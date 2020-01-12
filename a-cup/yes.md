@@ -22,6 +22,8 @@ description: 推荐
 
 [Polarr](https://www.polarr.co/)
 
+[Visual Studio Code](https://code.visualstudio.com/)
+
 [FlashFXP](https://www.flashfxp.com/)
 
 [7-Zip](https://www.7-zip.org/)
