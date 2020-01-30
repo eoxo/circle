@@ -26,6 +26,8 @@ description: 推荐
 
 [FlashFXP](https://www.flashfxp.com/)
 
+[WHOER](https://whoer.net/)
+
 [7-Zip](https://www.7-zip.org/)
 
 [Firefox Send](https://send.firefox.com/)
