@@ -14,6 +14,7 @@
 * [个人博客](c-cup/blog.md)
 * [视频博客](c-cup/vlog.md)
 * [会员资源](c-cup/box.md)
+* [说明书](shuo-ming-shu.md)
 
 ## 实用工具 <a id="a-cup"></a>
 
