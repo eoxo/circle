@@ -21,9 +21,3 @@
 * [YES](a-cup/yes.md)
 * [NO](a-cup/no.md)
 
-## 电影频道 <a id="movies"></a>
-
-* [观影史](movies/loop.md)
-* [字幕组](movies/subtitle.md)
-* [家庭组](family.md)
-
