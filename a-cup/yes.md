@@ -44,11 +44,11 @@ description: 推荐
 
 [1Password X](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa)：Chrome密码管理插件
 
-[icons8](https://icons8.com/)
+[icons8](https://icons8.com/)：图标
 
-[iconscout](https://iconscout.com/)
+[iconscout](https://iconscout.com/)：图标
 
-
+[Whimsical](https://whimsical.com/)：流程图/线框图/思维导图
 
 
 
