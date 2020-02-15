@@ -4,49 +4,47 @@ description: 推荐
 
 # YES
 
-[Nippon Colors](https://nipponcolors.com/)
+[Nippon Colors](https://nipponcolors.com/)：配色网站
 
-[Speedtest](https://www.speedtest.net/)
+[Speedtest](https://www.speedtest.net/)：网速测试
 
-[Fast](https://fast.com/)
+[Fast](https://fast.com/)：网飞网速测试
 
-[wikiHow](https://zh.wikihow.com/)
+[wikiHow](https://zh.wikihow.com/)：实用百科
 
-[Internet Archive](https://archive.org/)
+[Internet Archive](https://archive.org/)：互联网存档
 
-[JRiver Media Center](https://jriver.com/)
+[JRiver Media Center](https://jriver.com/)：多媒体软件
 
-[Uninstall Tool](https://www.crystalidea.com/uninstall-tool)
+[Uninstall Tool](https://www.crystalidea.com/uninstall-tool)：卸载软件
 
-[Zoommy](https://zoommyapp.com/)
+[Zoommy](https://zoommyapp.com/)：搜图软件
 
-[Polarr](https://www.polarr.co/)
+[Polarr](https://www.polarr.co/)：修图软件
 
-[Visual Studio Code](https://code.visualstudio.com/)
+[Visual Studio Code](https://code.visualstudio.com/)：IDE
 
-[FlashFXP](https://www.flashfxp.com/)
+[FlashFXP](https://www.flashfxp.com/)：FTP软件
 
-[WHOER](https://whoer.net/)
+[WHOER](https://whoer.net/)：检查IP匿名性
 
-[7-Zip](https://www.7-zip.org/)
+[7-Zip](https://www.7-zip.org/)：压缩软件
 
-[Firefox Send](https://send.firefox.com/)
+[Firefox Send](https://send.firefox.com/)：文件分享软件
 
-[ProtonMail](https://protonmail.com/)
+[1Password](https://1password.com/)：密码管理器
 
-[1Password](https://1password.com/)
+[Surge](https://nssurge.com/)：macOS科学上网软件
 
-[Surge](https://nssurge.com/)
+[Just My Socks](https://justmysocks.net/)：科学上网服务器
 
-[Just My Socks](https://justmysocks.net/)
+[Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)：Chrome去广告插件
 
-[Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
+[Twitter Block Chain](https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah)：Twitter屏蔽插件
 
-[Twitter Block Chain](https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah)
+[1Password X](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa)：Chrome密码管理插件
 
-[1Password X](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
-
-
+[https://icons8.com/](https://icons8.com/)
 
 
 
