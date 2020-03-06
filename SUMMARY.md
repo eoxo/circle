@@ -30,9 +30,9 @@
 * [Harvard Business Review](test/harvard-business-review.md)
 * [National Geographic](test/national-geographic.md)
 * [Reader's Digest](test/readers-digest.md)
-* [TIME](test/time.md)
-* [The New Yorker](test/the-new-yorker.md)
 * [The Atlantic](test/the-atlantic.md)
 * [The Economist](test/the-economist.md)
+* [The New Yorker](test/the-new-yorker.md)
 * [The Scientist](test/the-scientist.md)
+* [TIME](test/time.md)
 
