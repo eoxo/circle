@@ -24,15 +24,15 @@
 ## TEST
 
 * [BBC Science Focus](test/bbc-science-focus.md)
+* [Bloomberg Businessweek](test/bloomberg-businessweek.md)
+* [Forbes](test/forbes.md)
+* [Fortune](test/fortune.md)
 * [Harvard Business Review](test/harvard-business-review.md)
+* [National Geographic](test/national-geographic.md)
+* [Reader's Digest](test/readers-digest.md)
 * [TIME](test/time.md)
 * [The New Yorker](test/the-new-yorker.md)
 * [The Atlantic](test/the-atlantic.md)
 * [The Economist](test/the-economist.md)
-* [Bloomberg Businessweek](test/bloomberg-businessweek.md)
-* [National Geographic](test/national-geographic.md)
-* [Reader's Digest](test/readers-digest.md)
 * [The Scientist](test/the-scientist.md)
-* [Fortune](test/fortune.md)
-* [Forbes](test/forbes.md)
 
