@@ -20,5 +20,7 @@
 
 [萌娘百科](https://zh.moegirl.org/)：二次元百科
 
+[泛科学](https://pansci.asia/)：科普
+
 
 
