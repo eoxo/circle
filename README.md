@@ -10,7 +10,7 @@ description: © 2020 Shuke
 
 ![](.gitbook/assets/v2-1c8760bb3902f79b458a1a922f90ec41_r.jpg)
 
-> 我记得有一个地方 我永远永远不能忘 - 王菲《[初恋的地方](https://youtu.be/bivSDOvtdYw?list=PL3Zj7X3zAimKFSEflbe-i5hHbnRCgSvec)》
+> ~~我记得有一个地方 我永远永远不能忘 - 王菲《~~[~~初恋的地方~~](https://youtu.be/bivSDOvtdYw?list=PL3Zj7X3zAimKFSEflbe-i5hHbnRCgSvec)~~》~~
 
 推荐的网站审美独立，主观，以兴趣驱动。
 
