@@ -44,5 +44,4 @@
 * [The Scientist](magazine/the-scientist.md)
 * [TIME](magazine/time.md)
 * [Wired](magazine/wired.md)
-* [Untitled](magazine/untitled.md)
 
