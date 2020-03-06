@@ -22,5 +22,7 @@
 
 [泛科学](https://pansci.asia/)：科普
 
+[科学松鼠会](https://songshuhui.net/)：科普
+
 
 
