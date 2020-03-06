@@ -21,7 +21,7 @@
 * [YES](a-cup/yes.md)
 * [NO](a-cup/no.md)
 
-## TEST
+## Magazine <a id="test"></a>
 
 * [BBC Science Focus](test/bbc-science-focus.md)
 * [Bloomberg Businessweek](test/bloomberg-businessweek.md)
