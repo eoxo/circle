@@ -5,7 +5,7 @@
 ## 常用网站 <a id="c-cup"></a>
 
 * [学习网站](c-cup/books.md)
-* [资讯网站](c-cup/newspapers.md)
+* [资讯网站](c-cup/news.md)
 * [影视网站](c-cup/videos.md)
 * [生活网站](c-cup/lifestyle.md)
 * [摄影网站](c-cup/photos.md)
@@ -44,4 +44,13 @@
 * [The Scientist](magazine/the-scientist.md)
 * [TIME](magazine/time.md)
 * [Wired](magazine/wired.md)
+
+## newspaper
+
+* [AFPBB News](newspaper/afpbb-news.md)
+* [Engadget](newspaper/engadget.md)
+* [ESPN](newspaper/espn.md)
+* [Reuters](newspaper/reuters.md)
+* [Technology Collection](newspaper/technology-collection.md)
+* [The Guardian](newspaper/the-guardian.md)
 
