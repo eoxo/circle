@@ -14,7 +14,7 @@ _离子星球快递公司_，上线啦。
 
 文书人员：赫敏；
 
-![](.gitbook/assets/v2-1c8760bb3902f79b458a1a922f90ec41_r.jpg)
+![](.gitbook/assets/cover_1.png)
 
 > ~~我记得有一个地方 我永远永远不能忘 - 王菲《~~[~~初恋的地方~~](https://youtu.be/bivSDOvtdYw?list=PL3Zj7X3zAimKFSEflbe-i5hHbnRCgSvec)~~》~~
 
