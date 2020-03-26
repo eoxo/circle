@@ -1,8 +1,8 @@
 ---
-description: © 2020 Shuke
+description: © 2020 WaaBu
 ---
 
-# 舒克万事屋
+# ION PLANET EXPRESS
 
 舒克万事屋的招牌：追求小而精，避免大而全。
 
