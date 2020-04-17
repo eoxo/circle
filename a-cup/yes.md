@@ -8,11 +8,11 @@ description: 推荐
 
 [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)：Chrome去广告插件
 
-Bitcatcha：测试服务器速度
+[Bitcatcha](https://www.bitcatcha.com/)：测试服务器速度
 
-Bitly：网址缩短
+[Bitly](https://bitly.com/)：网址缩短
 
-EstiBot：域名估值
+[EstiBot](https://www.estibot.com/)：域名估值
 
 [Fast](https://fast.com/)：网飞网速测试
 
@@ -34,7 +34,7 @@ EstiBot：域名估值
 
 [Just My Socks](https://justmysocks.net/)：科学上网服务器
 
-LoadImpact：测试服务器负载
+[LoadImpact](https://loadimpact.com/)：测试服务器负载
 
 [Nippon Colors](https://nipponcolors.com/)：配色网站
 
@@ -44,11 +44,13 @@ LoadImpact：测试服务器负载
 
 #### OPQRSTU
 
-PageSpeed Insights：测试移动端页面性能
+[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)：测试移动端页面性能
 
-Pingdom：测试PC端页面加载速度
+[Pingdom](https://tools.pingdom.com/)：测试PC端页面加载速度
 
 [Polarr](https://www.polarr.co/)：修图软件
+
+[SMSCodes](https://www.smscodes.io/)：在线收发短信
 
 [Speedtest](https://www.speedtest.net/)：网速测试
 
