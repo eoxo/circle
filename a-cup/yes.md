@@ -8,6 +8,8 @@ description: 推荐
 
 [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)：Chrome去广告插件
 
+[Adobe Color](https://color.adobe.com/)：配色
+
 [Bitcatcha](https://www.bitcatcha.com/)：测试服务器速度
 
 [Bitly](https://bitly.com/)：网址缩短
@@ -46,6 +48,8 @@ description: 推荐
 
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)：测试移动端页面性能
 
+[Palettable](https://www.palettable.io/)：配色
+
 [Pingdom](https://tools.pingdom.com/)：测试PC端页面加载速度
 
 [Polarr](https://www.polarr.co/)：修图软件
@@ -63,6 +67,8 @@ description: 推荐
 
 
 #### VWXYZ
+
+[uiGradients](https://uigradients.com/)：配色
 
 [Visual Studio Code](https://code.visualstudio.com/)：IDE
 
