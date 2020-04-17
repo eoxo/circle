@@ -8,6 +8,12 @@ description: 推荐
 
 [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)：Chrome去广告插件
 
+Bitcatcha：测试服务器速度
+
+Bitly：网址缩短
+
+EstiBot：域名估值
+
 [Fast](https://fast.com/)：网飞网速测试
 
 [Firefox Send](https://send.firefox.com/)：文件分享软件
@@ -28,6 +34,8 @@ description: 推荐
 
 [Just My Socks](https://justmysocks.net/)：科学上网服务器
 
+LoadImpact：测试服务器负载
+
 [Nippon Colors](https://nipponcolors.com/)：配色网站
 
 [Notion](https://www.notion.so/)：记笔记软件
@@ -35,6 +43,10 @@ description: 推荐
 
 
 #### OPQRSTU
+
+PageSpeed Insights：测试移动端页面性能
+
+Pingdom：测试PC端页面加载速度
 
 [Polarr](https://www.polarr.co/)：修图软件
 
