@@ -66,7 +66,7 @@ description: 推荐
 
 [Visual Studio Code](https://code.visualstudio.com/)：IDE
 
-[web\*citron](https://www.webcitron.com/)：
+[web\*citron](https://www.webcitron.com/)：图标
 
 [Whimsical](https://whimsical.com/)：流程图/线框图/思维导图
 
