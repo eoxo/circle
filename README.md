@@ -6,7 +6,7 @@ description: © 2020 ION Inc.
 
 ![](.gitbook/assets/chinese-cuisine-restaurant-logo-maker-1665c-1.png)
 
-## _离子星球快递公司_，上线啦。
+### _离子星球快递公司_，上线啦。
 
 我们的口号：幹，是的，比快更快！
 
