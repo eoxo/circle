@@ -1,5 +1,5 @@
 ---
-description: © 2020 ION Inc.
+description: Copyright © 2020 WaaBu. All rights reserved.
 ---
 
 # ION PLANET EXPRESS
