@@ -8,7 +8,7 @@ description: Copyright © 2020 WaaBu. All rights reserved.
 
 \_\_
 
-### _离子星球快递公司_，上线啦。
+### 二十億秒，上线啦。
 
 我们的口号：幹，是的，比快更快！
 
