@@ -4,9 +4,9 @@ description: Copyright © 2020 WaaBu. All rights reserved.
 
 # 二十億秒
 
+![](.gitbook/assets/evh1yqcvcaivebd.jpg)
 
-
-![](.gitbook/assets/chinese-cuisine-restaurant-logo-maker-1665c-1.png)
+\_\_
 
 ### _离子星球快递公司_，上线啦。
 
