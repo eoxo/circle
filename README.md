@@ -1,5 +1,5 @@
 ---
-description: Copyright © 2020 WaaBu. All rights reserved.
+description: Copyright © 2021 WaaBu. All rights reserved.
 ---
 
 # 二十億秒
